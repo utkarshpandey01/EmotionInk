@@ -1,5 +1,3 @@
-# EmotionInk
-AI-powered air drawing system using hand gestures with real-time emotion-based color changing (OpenCV + MediaPipe)
 
 # 🎨 EmotionInk – AI-Powered Air Drawing with Emotion Detection
 
