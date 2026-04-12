@@ -111,22 +111,6 @@ This project combines **hand tracking**, **gesture recognition**, and **facial l
 
 ---
 
-# 📁 Project Structure
-
-```
-EmotionInk/
-│
-├── main.py              # Main application
-├── eraser.png          # Eraser icon
-├── requirements.txt    # Dependencies
-├── README.md           # Documentation
-└── assets/
-    ├── demo.gif        # Preview animation
-    └── demo.png        # Screenshot
-```
-
----
-
 # ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
@@ -147,16 +131,6 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
----
-
-# 🎥 Demo
-
-![Demo](assets/demo.gif)
-
-👉 Full Demo Video: [YouTube Link]
-
----
 
 # ⚡ Challenges Faced
 
@@ -191,17 +165,8 @@ python main.py
 # 👨‍💻 Author
 
 **Utkarsh Pandey**
+
 Computer Vision | AI | OpenCV | MediaPipe
-
----
-
-# ⭐ Support
-
-If you liked this project:
-
-* ⭐ Star the repository
-* 🍴 Fork it
-* 📢 Share it
 
 ---
 
