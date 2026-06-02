@@ -6,6 +6,7 @@ EmotionInk is a real-time computer vision application that enables users to draw
 This project combines **hand tracking**, **gesture recognition**, and **facial landmark analysis** to create a seamless, touchless human-computer interaction experience.
 
 ---
+# Use Live at : emotionink.netlify.app
 
 # 🚀 Features
 
